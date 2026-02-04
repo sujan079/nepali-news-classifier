@@ -67,7 +67,7 @@ cd nepali-news-classifier
 pip install -r requirements.txt
 
 # Run the application / model
-python main.py
+  streamlit run app.py
 
 
 (Adjust commands based on your actual files)
